@@ -2,6 +2,8 @@
 
 Eleven Player is a simple powerful video player.
 
+App Store:[https://itunes.apple.com/cn/app/elevenplayer/id1033773648](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)
+
 ##Eleven Player
 
 Support m4v, wmv, 3gp, mp4, mov, avi, mkv, mpeg, mpg, flv, vob format
